@@ -15,7 +15,6 @@ Journal de bord de ma progression en sécurité offensive et en réseau.
 | `hackthebox/` | Write-ups des machines HackTheBox |
 | `notes/` | Fiches théoriques et cheatsheets |
 | `templates/` | Modèles réutilisables (machine, fiche) |
-| `assets/` | Captures d'écran |
 
 ## ✍️ Méthode
 
@@ -36,4 +35,4 @@ ce que j'ai appris, et **où j'ai bloqué** — avec le raisonnement qui m'a dé
 - [ ] Stage cybersécurité (printemps 2027)
 
 ---
-*Dépôt tenu dans le cadre de mon parcours étudiant en cybersécurité et réseaux.*
+*Dépôt tenu dans le cadre de mon parcours étudiant en cybersécurité.*
