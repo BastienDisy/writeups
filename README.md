@@ -1,6 +1,5 @@
 # 🛡️ Write-ups — Cybersécurité
 
-Journal de bord de ma progression en sécurité offensive.
 **Une machine résolue = un write-up.**
 
 > ⚠️ **Contenu strictement pédagogique.** Tous les tests sont réalisés sur des
