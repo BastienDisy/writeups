@@ -1,32 +1,23 @@
-# 🛡️ Write-ups & Notes — Cybersécurité
+# 🛡️ Write-ups — Cybersécurité
 
-Journal de bord de ma progression en sécurité offensive et en réseau.
-**Une machine résolue = un write-up. Un concept appris = une fiche.**
+Journal de bord de ma progression en sécurité offensive.
+**Une machine résolue = un write-up.**
 
 > ⚠️ **Contenu strictement pédagogique.** Tous les tests sont réalisés sur des
-> plateformes d'entraînement légales (TryHackMe, HackTheBox) ou dans mon
-> laboratoire personnel isolé. Aucun flag brut, aucune donnée sensible.
-
-## 📂 Organisation
-
-| Dossier | Contenu |
-|---|---|
-| `tryhackme/` | Write-ups des rooms TryHackMe |
-| `hackthebox/` | Write-ups des machines HackTheBox |
-| `notes/` | Fiches théoriques et cheatsheets |
-| `templates/` | Modèles réutilisables (machine, fiche) |
+> plateformes d'entraînement légales ou dans mon laboratoire personnel isolé.
+> Aucun flag brut, aucune donnée sensible.
 
 ## ✍️ Méthode
 
-Chaque write-up suit [le même modèle](templates/template-machine.md) et documente
-systématiquement **deux choses que la plupart des write-ups oublient** :
-ce que j'ai appris, et **où j'ai bloqué** — avec le raisonnement qui m'a débloqué.
+Chaque write-up suit [le même modèle](template.md) et documente systématiquement
+deux choses que la plupart des write-ups oublient : **ce que j'ai appris**, et
+**où j'ai bloqué** — avec le raisonnement qui m'a débloqué.
 
 ## 🧭 Progression
 
-| Date | Plateforme | Machine | Difficulté | Thèmes |
-|------|-----------|---------|-----------|--------|
-| — | — | _première machine à venir_ | — | — |
+| Date | Machine | Difficulté | Thèmes |
+|------|---------|-----------|--------|
+| — | _première machine à venir_ | — | — |
 
 ## 🎯 Objectifs en cours
 

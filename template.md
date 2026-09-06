@@ -28,6 +28,3 @@ _2-3 lignes — LE champ le plus important._
 
 ## 🧱 Où j'ai bloqué (et comment j'ai débloqué)
 _Note ton raisonnement, pas seulement la solution. C'est ça qui te fait progresser._
-
----
-_Captures : `../assets/[nom-machine]/`_
