@@ -1,0 +1,16 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+*~
+*.swp
+
+# Brouillons personnels (ne pas publier)
+_brouillons/
+*.draft.md
+
+# Secrets — NE JAMAIS committer
+*.key
+*.pem
+id_rsa*
+credentials*
+.env
