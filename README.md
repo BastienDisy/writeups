@@ -10,7 +10,7 @@
 
 Chaque write-up suit [le même modèle](template.md) et documente systématiquement
 deux choses que la plupart des write-ups oublient : **ce que j'ai appris**, et
-**où j'ai bloqué** — avec le raisonnement qui m'a débloqué.
+**où j'ai bloqué** avec le raisonnement qui m'a débloqué.
 
 ## 🧭 Progression
 
