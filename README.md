@@ -23,6 +23,3 @@ deux choses que la plupart des write-ups oublient : **ce que j'ai appris**, et
 - [ ] Première certification (T4 2026)
 - [ ] Parcours *Jr Penetration Tester* — TryHackMe
 - [ ] Stage cybersécurité (printemps 2027)
-
----
-*Dépôt tenu dans le cadre de mon parcours étudiant en cybersécurité.*
